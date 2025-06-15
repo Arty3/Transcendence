@@ -1,10 +1,11 @@
-# Transcendence: Modern Web-based Pong Game Platform
+<h1 align="center">✨ Transcendence ✨</h1>
 
+<h6 align="center"><em>Modern Web-based Pong Game Web App</em></h6>
 
+## 📝 Overview
 
-## 🎮 Project Overview
-
-Transcendence is a modern web-based Pong game platform that brings the classic arcade experience to life with real-time multiplayer capabilities, tournaments, and social features. Built with Node.js, TypeScript, and containerized with Docker, this project demonstrates web development skills, real-time communication implementation, and secure user management.
+Transcendence is a modern web-based Pong game platform that brings the classic arcade experience to life with real-time multiplayer capabilities, tournaments,
+and social features. Built with Node.js, TypeScript, Nginx and Docker.
 
 Please see [subject.pdf](./resources/subject.pdf) to see the project's requirements.
 
@@ -69,7 +70,7 @@ Access the application at: https://localhost
 This application may not function as expected because the Google Cloud integration has been disconnected due to the project being archived. Please ensure that you update or replace the relevant cloud services if necessary to restore full functionality.
 
 
-## 📷 Screenshots
+## ⭐ Showcase
 
 <div align="center">
   <img src="resources/screenshots/login_and_registration/Login_Screen.png" alt="Login Screen" width="400">
@@ -194,3 +195,5 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for more information
 
 - The Pong game (1972) for the classic gameplay concept.
 - The open-source community for the tools and libraries used.
+
+<h4>Thank you Jared for the amazing docs!</h4>
