@@ -1,12 +1,12 @@
-# ft_transcendence: Modern Web-based Pong Game Platform
+# Transcendence: Modern Web-based Pong Game Platform
 
 
 
 ## 🎮 Project Overview
 
-ft_transcendence is a modern web-based Pong game platform that brings the classic arcade experience to life with real-time multiplayer capabilities, tournaments, and social features. Built with Node.js, TypeScript, and containerized with Docker, this project demonstrates web development skills, real-time communication implementation, and secure user management.
+Transcendence is a modern web-based Pong game platform that brings the classic arcade experience to life with real-time multiplayer capabilities, tournaments, and social features. Built with Node.js, TypeScript, and containerized with Docker, this project demonstrates web development skills, real-time communication implementation, and secure user management.
 
-
+Please see [subject.pdf](./resources/subject.pdf) to see the project's requirements.
 
 ## ✨ Features
 
@@ -52,8 +52,8 @@ ft_transcendence is a modern web-based Pong game platform that brings the classi
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/jaredgoedhart/ft_transcendence.git
-cd ft_transcendence
+git clone https://github.com/Arty3/Transcendence.git
+cd Transcendence
 
 # Configure environment
 cp .env.example .env
@@ -116,7 +116,7 @@ Experience a unique twist on Pong with three players simultaneously controlling 
 ## 📚 Project Structure
 
 ```
-ft_transcendence/
+Transcendence/
 ├── backend/                 # Server-side code
 │   ├── src/                 # Source files
 │   │   ├── config/          # Configuration
@@ -185,7 +185,7 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for more information
 
 ## 👥 Authors
 
-- [Luca Goddijn](https://github.com/DontCallMeLuca)
+- [Luca Goddijn](https://github.com/Arty3)
 - [Oleksii Volzhev](https://github.com/Playstayman)
 - [Jared Goedhart](https://github.com/jaredgoedhart)
 
